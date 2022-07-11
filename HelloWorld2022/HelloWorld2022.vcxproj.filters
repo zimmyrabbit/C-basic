@@ -30,5 +30,11 @@
     <ClCompile Include="two variables.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="class3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="class4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

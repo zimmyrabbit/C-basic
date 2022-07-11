@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int twoVariables(void) {
 	int x = 10;
 	int y = 20;
 	printf("x = %d¿‘¥œ¥Ÿ.\n", x);
