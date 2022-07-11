@@ -1,0 +1,3 @@
+﻿  variables test.c
+D:\C\HelloWorld2022\HelloWorld2022\variables test.c(5,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  HelloWorld2022.vcxproj -> D:\C\HelloWorld2022\x64\Debug\HelloWorld2022.exe
