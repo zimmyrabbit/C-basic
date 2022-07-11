@@ -128,7 +128,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="hello_world_2022.c" />
+    <ClCompile Include="overflow.c" />
     <ClCompile Include="size.c" />
+    <ClCompile Include="two variables.c" />
     <ClCompile Include="variables test.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

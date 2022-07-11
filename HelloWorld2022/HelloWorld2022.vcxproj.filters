@@ -24,5 +24,11 @@
     <ClCompile Include="variables test.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="overflow.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="two variables.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

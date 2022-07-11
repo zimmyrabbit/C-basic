@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int variableTest(void) {
 	int x = 50;
 	float y = 123456789.123456789;
 	double z = 123456789.123456789;
@@ -9,4 +9,5 @@ int main(void) {
 	printf("z = %.2f\n", z);
 
 	return 0;
+	
 }
