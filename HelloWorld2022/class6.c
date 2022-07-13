@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+//scanf_s 함수를 사용할때 변수이름 앞에 주소를 지정하는 &를 붙여야한다.
+//형식지정자를 %c로 하면 enter입력도 하나의 문자로 입력받을 수 있다.
+// -> getchar() 로 버퍼 초기화
+
 int calculator(void) {
 	char o;
 	int x, y;
