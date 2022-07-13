@@ -2,10 +2,6 @@
 #define N 10
 #define M 20
 
-int main(void) {
-	piramid();
-}
-
 int year(void) {
 	/*
 		윤년 => 4년마다, 그렇지만 100년 단위일 때는 윤년에 해당하지 않도록
