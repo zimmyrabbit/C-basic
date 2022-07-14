@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="class10.c" />
     <ClCompile Include="class11.c" />
+    <ClCompile Include="class12.c" />
     <ClCompile Include="class3.c" />
     <ClCompile Include="class4.c" />
     <ClCompile Include="class5.c" />
