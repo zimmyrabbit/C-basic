@@ -20,7 +20,7 @@ int countchar(void) {
 	return 0;
 }
 
-int strlen(void) {
+int strlen_str(void) {
 
 	char input[5] = "Love";
 
@@ -29,7 +29,7 @@ int strlen(void) {
 	return 0;
 }
 
-int strcmp(void) {
+int strcmp_str(void) {
 
 	char inputOne[5] = "A";
 
@@ -46,7 +46,7 @@ int strcmp(void) {
 	return 0;
 }
 
-int strcpy(void) {
+int strcpy_str(void) {
 
 	char input[10] = "I Love You";
 	char result[5] = "Love";

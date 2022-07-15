@@ -130,6 +130,9 @@
     <ClCompile Include="class10.c" />
     <ClCompile Include="class11.c" />
     <ClCompile Include="class12.c" />
+    <ClCompile Include="class13.c" />
+    <ClCompile Include="class14.c" />
+    <ClCompile Include="class15.c" />
     <ClCompile Include="class3.c" />
     <ClCompile Include="class4.c" />
     <ClCompile Include="class5.c" />
