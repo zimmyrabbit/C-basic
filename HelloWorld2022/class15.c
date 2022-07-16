@@ -44,7 +44,7 @@ struct student {
 	double grade;
 };
 
-int main(void) {
+int student_main(void) {
 
 	struct student list[SIZE];
 

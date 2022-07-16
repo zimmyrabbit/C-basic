@@ -1,2 +1,6 @@
-﻿  class15.c
+﻿  class16.c
+D:\sourceTree\C basic\HelloWorld2022\class16.c(7,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\sourceTree\C basic\HelloWorld2022\class16.c(33,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\sourceTree\C basic\HelloWorld2022\class16.c(73,7): warning C4013: 'strstr'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\sourceTree\C basic\HelloWorld2022\class16.c(66,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   HelloWorld2022.vcxproj -> D:\sourceTree\C basic\x64\Debug\HelloWorld2022.exe
