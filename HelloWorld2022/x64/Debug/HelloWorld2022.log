@@ -1,5 +1,5 @@
-﻿  class17.c
-  class18.c
+﻿  class18.c
 D:\sourceTree\C basic\HelloWorld2022\class18.c(29,2): warning C4013: 'strcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  class19.c
   코드를 생성하고 있습니다...
   HelloWorld2022.vcxproj -> D:\sourceTree\C basic\x64\Debug\HelloWorld2022.exe
